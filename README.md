@@ -9,21 +9,21 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Hiring Channel Web</h3>
+  <h3 align="center">MacaBook Library Web</h3>
   <p align="center">
     <image align="center" width="200" src='./screenshots/Component 1.png' />
   </p>
 
   <p align="center">
     <br />
-    <a href="https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/slucter/Library-vue-v1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="http://www.hiring-channel.com.s3-website-us-east-1.amazonaws.com/">View Demo</a>
+    <a href="http://localhost:8080//">View Demo</a>
     ·
-    <a href="https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux/issues">Report Bug</a>
+    <a href="https://github.com/slucter/Library-vue-v1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux/issues">Request Feature</a>
+    <a href="https://github.com/slucter/Library-vue-v1/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,12 +47,12 @@
 ## About The Project
 
 
-The Hiring Channel Web is a Website that contains data from Company and Engineer, which is made for Engineers to enter their profiles so that Companies can searching for Engineers that match their specifications.
+Macabook Library is web library application which is based on book data library school, ready to use for admin school library as sortcut and helpfull
 
 ### Built With
 
-* [ReactJs](https://reactjs.org/)
-* [React Bootstrap](https://react-bootstrap.github.io/)
+* [VueJs](https://vue.org/)
+* [CSS 3 & Flexbox]
 
 
 <!-- GETTING STARTED -->
@@ -68,7 +68,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
 ```sh
-git clone https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux.git
+git clone https://github.com/slucter/Library-vue-v1.git
 ```
 2. Install NPM packages
 ```sh
@@ -120,9 +120,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-My Email : hapidmochj12@gmail.com
+My Email : mad.irhashdianto@gmail.com
 
-Project Link: [https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux](https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux)
+Project Link: [https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRedux](https://github.com/slucter/Library-vue-v1)
 
 
 
