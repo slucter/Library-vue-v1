@@ -79,7 +79,7 @@ REACT_APP_API_URL=[Backend API]
   <span>
       <image width="200" src='./src/screenshoot/dashboard.png' />
       <image width="200" src='./src/screenshoot/sidebar.png' />
-      <image width="200" src='./src/screenshoot/detail.png' />
+      <image width="200" src='./src/screenshoot/detail.jpg' />
      
 
 <!-- CONTRIBUTING -->
