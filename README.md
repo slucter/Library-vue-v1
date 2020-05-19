@@ -2,7 +2,7 @@
 
   <h3 align="center">MacaBook Library Web</h3>
   <p align="center">
-    <image align="center" width="200" src='./screenshoot/Component 1.png' />
+    <image align="center" width="200" src='./src/assets/readmey/logo.png' />
   </p>
 
   <p align="center">
