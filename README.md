@@ -118,5 +118,3 @@ Project Link: [https://github.com/AdmiralYuuShi/Frontend-HiringChannelApp-WithRe
 
 
 
-
->>>>>>> ebb7935c0c580a9918df38acb243626a3a4738f8
