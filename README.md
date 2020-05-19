@@ -77,17 +77,9 @@ REACT_APP_API_URL=[Backend API]
 
 <p align='center'>
   <span>
-      <image width="200" src='./screenshots/hca-register.png' />
-      <image width="200" src='./screenshots/hca-login.png' />
-      <image width="200" src='./screenshots/hca-home.png' />
-      <image width="200" src='./screenshots/hca-engineers-10.png' />
-      <image width="200" src='./screenshots/hca-companies.png' />
-      <image width="200" src='./screenshots/hca-create-profile-engineer.png' />
-      <image width="200" src='./screenshots/hca-create-company-profile.png' />
-      <image width="200" src='./screenshots/hca-profile-engineer.png' />
-      <image width="200" src='./screenshots/hca-profile-company.png' />
-      <image width="200" src='./screenshots/hca-edit-profile-engineer.png' />
-      <image width="200" src='./screenshots/hca-edit-profile-company.png' />
+      <image width="200" src='./src/screenshoot/dashboard.png' />
+      <image width="200" src='./src/screenshoot/sidebar.png' />
+      <image width="200" src='./src/screenshoot/detail.png' />
      
 
 <!-- CONTRIBUTING -->
